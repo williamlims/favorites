@@ -7,7 +7,7 @@ echo "### SYSTEM UPGRADED ###"
 sudo apt install python3 -y
 sudo apt install python3-pip -y
 sudo apt-get install python3-venv -y
-sudo apt install python3-django
+sudo apt install python3-django -y
 clear
 echo "### ECOSYSTEM PYTHON INSTALLED ###"
 python3 -m venv env
